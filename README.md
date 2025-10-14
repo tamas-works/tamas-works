@@ -10,7 +10,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 
 ### 🧠 Was ich gerade lerne
 • Grundlagen in Python  
-• Jira  
+• Jira & Zephyr  
 • Testfälle erstellen und bug report schreiben  
 
 ---

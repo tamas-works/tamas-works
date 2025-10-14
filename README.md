@@ -9,9 +9,9 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 ---
 
 ### 🧠 Was ich gerade lerne
-- Grundlagen in Python
-- Jira  
-- Testfälle erstellen und bug report schreiben  
+• Grundlagen in Python  
+• Jira  
+• Testfälle erstellen und bug report schreiben  
 
 ---
 

@@ -34,9 +34,9 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 ---
 
 **Programmiersprachen**  
-• Python (Grundkenntnisse) 
-• Java (Grundkenntnisse) 
-• JavaScript (Grundkenntnisse)  
+• Python (Grundkenntnisse)   
+• Java (Grundkenntnisse)   
+• JavaScript (Grundkenntnisse)    
 
 **Arbeitsweise**  
 • Agile Methoden (Scrum, Kanban)  

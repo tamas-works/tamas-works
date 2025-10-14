@@ -43,7 +43,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 ---
 
 ### 📫 Kontakt
-[LinkedIn](https://linkedin.com/in/tamas-kiss-ch)
+[LinkedIn](https://linkedin.com/in/tamas-kiss-ch) [e-Mail](kisstamas29@gmail.com)
 
 ---
 

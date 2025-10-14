@@ -11,7 +11,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 ### 🧠 Was ich gerade lerne
 - Grundlagen in Python  
 - Jira  
-- Testfälle erstellen und Fehlerberichte schreiben  
+- Testfälle erstellen und bug report schreiben  
 
 ---
 
@@ -22,7 +22,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 • Testmanagement · Qualitätssicherung  
 
 **Tools & Umgebungen**  
-• Jira · Zephyr · GitHub · VS Code · IntelliJ IDEA  
+• Jira · Zephyr · GitHub · VS Code · IntelliJ IDEA · PyCharm
 
 **Programmiersprachen**  
 • Python (Grundkenntnisse) · Java (Grundkenntnisse) · JavaScript (Grundkenntnisse)  
@@ -34,7 +34,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 ---
 
 ### 📫 Kontakt
-[LinkedIn](https://linkedin.com/in/tamaskiss) · [GitHub](https://github.com/tamas-works)  
+[LinkedIn](https://linkedin.com/in/tamas-kiss-ch)
 
 ---
 

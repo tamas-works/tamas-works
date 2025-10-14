@@ -31,8 +31,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 • Manuelles Testen · Fehleranalyse · Testfall-Erstellung · Testberichte  
 • Testmanagement · Qualitätssicherung  
 
-**Tools & Umgebungen**  
-• Jira · Zephyr · GitHub · VS Code · IntelliJ IDEA · PyCharm
+---
 
 **Programmiersprachen**  
 • Python (Grundkenntnisse) · Java (Grundkenntnisse) · JavaScript (Grundkenntnisse)  

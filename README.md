@@ -52,7 +52,7 @@ Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
 
 ---
 
-> „Gutes Testen bedeutet nicht, Fehler zu finden – sondern sicherzustellen, dass alles funktioniert, wenn es soll.“
+ „Gutes Testen bedeutet nicht, Fehler zu finden – sondern sicherzustellen, dass alles funktioniert, wenn es soll.“
 
 <!-- ---
 

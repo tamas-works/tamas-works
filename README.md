@@ -9,7 +9,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 ---
 
 ### 🧠 Was ich gerade lerne
-- Grundlagen in Python  
+- Grundlagen in ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 - Jira  
 - Testfälle erstellen und bug report schreiben  
 

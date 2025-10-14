@@ -48,7 +48,10 @@ Danke fürs Vorbeischauen! 👋
 Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
 
 ### 📫 Kontakt
-[LinkedIn](https://linkedin.com/in/tamas-kiss-ch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamas-kiss-ch)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaskiss.qa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/tamas-works)
+
+
 
 ---
 

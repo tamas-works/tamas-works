@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Tamas Kiss  
 
-<!--
-**tamas-works/tamas-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Lernen · 🧩 Testen · 🔧 Weiterentwickeln  
 
-Here are some ideas to get you started:
+Ich lebe in Zürich und starte gerade meine Karriere im Bereich Softwaretesting.  
+Ich konzentriere mich vor allem auf manuelles Testen, interessiere mich aber auch  
+für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kennen.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Was ich gerade lerne
+- Grundlagen in Python  
+- Jira  
+- Testfälle erstellen und Fehlerberichte schreiben  
+
+---
+
+### 🧩 Kompetenzen & Tools
+
+**Testen & Qualitätssicherung**  
+• Manuelles Testen · Fehleranalyse · Testfall-Erstellung · Testberichte  
+• Testmanagement · Qualitätssicherung  
+
+**Tools & Umgebungen**  
+• Jira · Zephyr · GitHub · VS Code · IntelliJ IDEA  
+
+**Programmiersprachen**  
+• Python (Grundkenntnisse) · Java (Grundkenntnisse) · JavaScript (Grundkenntnisse)  
+
+**Arbeitsweise**  
+• Agile Methoden (Scrum, Kanban)  
+• Teamarbeit · Kommunikation · Analytisches Denken  
+
+---
+
+### 📫 Kontakt
+[LinkedIn](https://linkedin.com/in/tamaskiss) · [GitHub](https://github.com/tamas-works)  
+
+---
+
+> „Gutes Testen bedeutet nicht, Fehler zu finden – sondern sicherzustellen, dass alles funktioniert, wenn es soll.“

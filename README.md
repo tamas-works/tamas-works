@@ -18,11 +18,17 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 ### 🧩 Kompetenzen & Tools
 ### 🛠️ Tools & Technologien
 
+### 🛠️ Tools & Technologien
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-009639?logo=atlassian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-009639?logo=atlassian&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white)
+
 
 **Testen & Qualitätssicherung**  
 • Manuelles Testen · Fehleranalyse · Testfall-Erstellung · Testberichte  

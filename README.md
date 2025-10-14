@@ -15,9 +15,6 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 
 ---
 
-### 🧩 Kompetenzen & Tools
-### 🛠️ Tools & Technologien
-
 ### 🛠️ Tools & Technologien
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)

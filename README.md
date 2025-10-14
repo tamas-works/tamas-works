@@ -42,19 +42,17 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 
 ---
 
+Danke fürs Vorbeischauen! 👋  
+Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
+
 ### 📫 Kontakt
-[LinkedIn](https://linkedin.com/in/tamas-kiss-ch) [e-Mail](kisstamas29@gmail.com)
+[LinkedIn](https://linkedin.com/in/tamas-kiss-ch)
 
 ---
 
 > „Gutes Testen bedeutet nicht, Fehler zu finden – sondern sicherzustellen, dass alles funktioniert, wenn es soll.“
 
----
-
-Danke fürs Vorbeischauen! 👋  
-Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
-
----
+<!-- ---
 
 ### 📊 GitHub Stats
 ![Tamas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tamas-works&show_icons=true&theme=default)
@@ -63,7 +61,7 @@ Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
 
 ### 🚀 Lernprojekte
 - 🧪 [QA-Practice Repo](https://github.com/tamas-works/qa-practice) – Beispiele für manuelles Testen und Bug Reports
-- 💻 [Python-Übungen](https://github.com/tamas-works/python-learning) – kleine Scripts und Übungen
+- 💻 [Python-Übungen](https://github.com/tamas-works/python-learning) – kleine Scripts und Übungen -->
 
 
 

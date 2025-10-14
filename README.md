@@ -59,5 +59,11 @@ Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
 ### 📊 GitHub Stats
 ![Tamas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tamas-works&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamas-works&layout=compact)
+---
+
+### 🚀 Lernprojekte
+- 🧪 [QA-Practice Repo](https://github.com/tamas-works/qa-practice) – Beispiele für manuelles Testen und Bug Reports
+- 💻 [Python-Übungen](https://github.com/tamas-works/python-learning) – kleine Scripts und Übungen
+
 
 

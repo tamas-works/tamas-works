@@ -1,4 +1,5 @@
 # 👋 Hallo, ich bin Tamas Kiss  
+![Profile Views](https://komarev.com/ghpvc/?username=tamas-works&color=0A66C2)
 
 💡 Lernen · 🧩 Testen · 🔧 Weiterentwickeln  
 
@@ -48,7 +49,7 @@ Danke fürs Vorbeischauen! 👋
 Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
 
 ### 📫 Kontakt
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamas-kiss-ch)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaskiss.qa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamas-kiss-ch)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaskiss.qa@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/41772170372)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/tamas-works)
 
 

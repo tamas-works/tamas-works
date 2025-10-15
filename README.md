@@ -13,6 +13,12 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 • Grundlagen in Python  
 • Jira & Zephyr  
 • Testfälle erstellen und bug report schreiben  
+<!--
+![Learning](https://img.shields.io/badge/Currently%20learning-Python%20%26%20QA-blue)
+![Focus](https://img.shields.io/badge/Focus-Quality%20Assurance-success)
+![Open%20to%20Work](https://img.shields.io/badge/Open%20to-Testing%20Opportunities-orange)
+-->
+
 
 ---
 

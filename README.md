@@ -1,5 +1,5 @@
-# 👋 Hallo, ich bin Tamas Kiss  
-![Profile Views](https://komarev.com/ghpvc/?username=tamas-works&color=0A66C2)
+# 👋 Hallo, ich bin Tamas Kiss     ![Profile Views](https://komarev.com/ghpvc/?username=tamas-works&color=0A66C2)
+
 
 💡 Lernen · 🧩 Testen · 🔧 Weiterentwickeln  
 
@@ -9,7 +9,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 
 ---
 
-### 🧠 Was ich gerade lerne
+### Was ich gerade lerne
 • Grundlagen in Python  
 • Jira & Zephyr  
 • Testfälle erstellen und bug report schreiben  
@@ -22,7 +22,7 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 
 ---
 
-### 🛠️ Tools & Technologien
+### Tools & Technologien
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr-009639?logo=atlassian&logoColor=white)
@@ -37,18 +37,18 @@ für Automatisierung und lerne Schritt für Schritt neue Tools und Methoden kenn
 
 
 
-**Testen & Qualitätssicherung**  
+### Testen & Qualitätssicherung 
 • Manuelles Testen · Fehleranalyse · Testfall-Erstellung · Testberichte  
 • Testmanagement · Qualitätssicherung  
 
 ---
 
-**Programmiersprachen**  
+### Programmiersprachen 
 • Python (Grundkenntnisse)   
 • Java (Grundkenntnisse)   
 • JavaScript (Grundkenntnisse)    
 
-**Arbeitsweise**  
+### Arbeitsweise 
 • Agile Methoden (Scrum, Kanban)  
 • Teamarbeit · Kommunikation · Analytisches Denken  
 
@@ -62,10 +62,13 @@ Ich freue mich immer über neue Kontakte oder spannende QA-Projekte.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/tamas-works)
 
 
-
 ---
 
    „Gutes Testen bedeutet nicht, Fehler zu finden – sondern sicherzustellen, dass alles funktioniert, wenn es soll.“
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamas-works&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamas-works&layout=compact)
+
 
 <!-- ---
 
